@@ -1,7 +1,6 @@
 # 🌍 AQI Trend Analysis (2020–2025) | SQL & Power BI
 
-End-to-end Air Quality Index (AQI) analysis covering 300+ Indian cities using SQL for data processing and Power BI for interactive visualization.
-
+End-to-end Air Quality Index (AQI) exploratory data analysis using SQL and interactive visualization in Power BI.
 ---
 
 ## 📌 Project Overview
@@ -20,11 +19,10 @@ The goal was to create a structured, interactive dashboard that provides clear e
 
 ## 🗂 Dataset Details
 
-- Source: CPCB (Central Pollution Control Board)
+- Source: Publicly available CPCB air quality dataset (2020–2025)
 - Time Period: January 2020 – October 2025
 - Coverage: 300+ Indian Cities
 - Total Records: 378,000+
-- AQI Range Observed: 3 – 500
 
 ---
 
@@ -39,7 +37,6 @@ The goal was to create a structured, interactive dashboard that provides clear e
   - Data Transformation
 
 - **Power BI**
-  - Star Schema Modeling
   - Interactive Slicers
   - Ranking Visuals
   - Trend Analysis Dashboards
@@ -51,7 +48,6 @@ The goal was to create a structured, interactive dashboard that provides clear e
 ### 1️⃣ Data Cleaning & Validation
 - Null value checks
 - Date range validation
-- Duplicate detection
 - AQI boundary validation
 
 ### 2️⃣ National Trend Analysis
