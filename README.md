@@ -1,6 +1,6 @@
 # 🌍 AQI Trend Analysis (2020–2025) | SQL & Power BI
 
-End-to-end Air Quality Index (AQI) exploratory data analysis using SQL and interactive visualization in Power BI.
+Exploratory AQI analysis (2020–2025) using SQL (CTEs, Window Functions) and interactive Power BI dashboards.
 ---
 
 ## 📌 Project Overview
