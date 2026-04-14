@@ -1,6 +1,13 @@
 # 🌍 AQI Trend Analysis (2020–2025) | SQL & Power BI
 
 Exploratory AQI analysis (2020–2025) using SQL (CTEs, Window Functions) and interactive Power BI dashboards.
+
+---
+
+## 🚀 Live Dashboard
+
+👉 [View Power BI Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiY2VkOWJhZTYtNTdjNS00YzYyLWE1MzktY2JjMDRkYWZlOGZjIiwidCI6IjZkYjE1YzYxLWUzNjQtNGMyMy1iNmMzLTU4OGFjNDExNTk5MyJ9)
+
 ---
 
 ## 📌 Project Overview
@@ -77,8 +84,8 @@ The dashboard consists of 5 pages:
 
 1. National AQI Trend Overview  
 2. City-wise AQI Comparison  
-3. Delhi NCR Deep Dive 
-4. Volitality vs Consistency 
+3. Delhi NCR Deep Dive  
+4. Volatility vs Consistency  
 5. Year-wise Pollution Ranking  
 
 ---
@@ -106,17 +113,17 @@ The dashboard consists of 5 pages:
 ---
 
 ## 📂 Repository Structure
-AQI-Trend-Analysis-SQL-PowerBI
-│
-├── sql/
-│ └── aqi_analysis.sql
-├── powerbi/
-│ └── AQI_Trend_Dashboard.pbix
-└── screenshots/
-├── national_trend.png
-├── city_comparison.png
-└── pollution_ranking.png
 
+AQI-Trend-Analysis-SQL-PowerBI  
+│  
+├── sql/  
+│   └── aqi_analysis.sql  
+├── powerbi/  
+│   └── AQI_Trend_Dashboard.pbix  
+└── screenshots/  
+    ├── national_trend.png  
+    ├── city_comparison.png  
+    └── pollution_ranking.png  
 
 ---
 
